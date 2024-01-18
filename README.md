@@ -7,18 +7,6 @@ Japanese restaurant app is a design implementation of [Japanese restaurant app](
 
 
 
-  <br/>
-
-## GetX | Cubit | Bloc | Provider 
-
-#### • Access to different versions
-
-|               Version               |                                                  Bloc                                                  |                                                  Cubit                                                   |                                                     Getx                                                      |                                                     Provider                                                      |
-|:-----------------------------------:|:------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-|               Branch                | [Source](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/bloc) <br/> (bloc branch)️ |                                    [Source](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/cubit)   <br/> (cubit branch)                                     | [Source](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/master)     <br/> (master branch) | [Source](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/provider)     <br/> (provider branch) |
-
-  <br/>
-
 ## Screenshots (Light mode)
 
 Preview                    |   Home screen             |  Food Detail Screen    |  Cart Screen
