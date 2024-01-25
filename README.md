@@ -2,7 +2,7 @@
 
 Japanese restaurant app is a design implementation of [Japanese restaurant app](https://dribbble.com/shots/14752424-Japan-Restaurant-App-Food-App/attachments/6455673?mode=media) designed by [Dennis Nzioki]()
 
-![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/japanese_restaurant_app_dark.png?raw=true)
+![](screenshots/japanese_restaurant_app_dark.png?raw=true)
 ![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/japanese_restaurant_app_light.png?raw=true)
 
 
@@ -11,7 +11,7 @@ Japanese restaurant app is a design implementation of [Japanese restaurant app](
 
 Preview                    |   Home screen             |  Food Detail Screen    |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/preview.gif?raw=true)|![](screenshots/food_list_screen_light.png?raw=true)|![](screenshots/food_detail_screen_light.png?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/cart_screen_light.png?raw=true)
+![](screenshots/preview.gif?raw=true)|![](screenshots/food_list_screen_light.png?raw=true)|![](screenshots/food_detail_screen_light.png?raw=true)|![](screenshots/cart_screen_light.png?raw=true)
 
 ## Screenshots (Dark mode)
 
