@@ -17,7 +17,7 @@ Preview                    |   Home screen             |  Food Detail Screen    
 
 Favorite screen            |   Home screen             |  Food Detail Screen       |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/favorite_screen_dark.png?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/food_list_screen_dark.png?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/food_detail_screen_dark.png?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/cart_screen_dark.png?raw=true)
+![](screenshots/favorite_screen_dark.png?raw=true)|![](screenshots/food_list_screen_dark.png?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/food_detail_screen_dark.png?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/cart_screen_dark.png?raw=true)
 
 
 ## 🚀 Features :
