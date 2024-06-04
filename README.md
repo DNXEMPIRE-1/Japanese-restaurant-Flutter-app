@@ -1,4 +1,4 @@
-# flutter_japanese_restaurant_app
+# flutter-japanese-restaurant-app
 
 Japanese restaurant app is a design implementation of [Japanese restaurant app](https://dribbble.com/shots/14752424-Japan-Restaurant-App-Food-App/attachments/6455673?mode=media)
 ![](screenshots/japanese_restaurant_app_dark.png?raw=true)
